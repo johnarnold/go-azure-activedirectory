@@ -2,13 +2,11 @@
   <library name="GOPATH &lt;azure-activedirectory-library-for-go&gt;">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../golang.org" />
-      <root url="file://$PROJECT_DIR$/../../../.idea" />
       <root url="file://$PROJECT_DIR$/../.." />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../../../golang.org" />
-      <root url="file://$PROJECT_DIR$/../../../.idea" />
       <root url="file://$PROJECT_DIR$/../.." />
     </SOURCES>
     <excluded>
